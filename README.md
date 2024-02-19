@@ -8,8 +8,8 @@
 - <b>Virtual Private Network</b>
   - [Installing Virtual Private Networks](https://github.com/ChelseaReeves/Installing-VPNs)
 - <b>Active Directory</b>
-  - [Configuring Active Directory in Azure VMs](https://github.com/ChelseaReeves/ActiveDirectory)
-  - [Installing Active Directory](https://github.com/ChelseaReeves/Installing-Active-Directory)
+  - [Configuring Active Directory in Azure](https://github.com/ChelseaReeves/ActiveDirectory)
+  - [Installing Active Directory in Azure](https://github.com/ChelseaReeves/Installing-Active-Directory)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Chelsea | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
