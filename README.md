@@ -3,7 +3,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ChelseaReeves/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/ChelseaReeves/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/ChelseaReeves/osTicketpost)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ChelseaReeves/ticket-lifecycle)
 - <b>Virtual Private Network</b>
   - [Installing Virtual Private Networks](https://github.com/ChelseaReeves/Installing-VPNs)
